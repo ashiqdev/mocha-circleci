@@ -5,7 +5,7 @@
   "license": "MIT",
   "scripts": {
     "test": "mocha --exit",
-    "lint": "eslint .",
+    "lint": "eslint ."
   },
   "dependencies": {
     "chai": "^4.2.0",
